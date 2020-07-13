@@ -12,10 +12,3 @@ If you have any questions don’t hesitate to post it or contact me on:
    
 </left>
 ](https://mail.google.com/mail/u/0)
-[
-<left>
-   
-   ![](linkedin.png)
-   
-</left>
-](https://www.linkedin.com/in/nassima-chelik-14820a159/)
