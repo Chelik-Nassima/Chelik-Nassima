@@ -6,9 +6,5 @@ experience in Java SE/Java FX and Android Development, keen to develop new skill
 and to progress in the big world of Computer
 Currently, I have an interesting focus on the work in the technologies #machine-learning...
 If you have any questions don’t hesitate to post it or contact me on: 
-[
-<left>
-   ![](email.png)
-   
-</left>
-](https://mail.google.com/mail/u/0)
+
+![email.png](![email.png](https://mail.google.com/mail/u/0))
