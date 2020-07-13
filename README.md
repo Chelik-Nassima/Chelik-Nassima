@@ -5,6 +5,7 @@ __practice my competences and my educational achievement to provide solutions fo
 __experience in Java SE/Java FX and Android Development, keen to develop new skills to complement my studies__
 __and to progress in the big world of Computer__
 __Currently, I have an interesting focus on the work in the technologies #machine-learning...__
+
 __If you have any questions don’t hesitate to post it or contact me on:__
 
 [
